@@ -82,10 +82,6 @@ Explore each project individually by navigating to its directory. Refer to the p
 
 Contributions are encouraged! Whether it's new project ideas, enhancements, or bug fixes, feel free to open an issue or submit a pull request.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙌 Acknowledgements
 
 - Thanks to the Beautiful Soup community for creating and maintaining this powerful web scraping library.
